@@ -1,0 +1,15 @@
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.boton_iniciar.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.cache
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.CoreCompileInputs.cache
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojAssemblyReference.cache
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.juego_principal.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.agregarPalabraYLogearse.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.registrarse.resources
+C:\Users\Alexeltocayo\source\repos\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form_resultado.resources
